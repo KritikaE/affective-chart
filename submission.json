@@ -1,0 +1,7 @@
+{
+  "prompt": "Hundreds of animal silhouettes — elephants, birds, fish, wolves — packed densely on the left side of the image, gradually thinning and fading into pure white empty space on the right. The animals on the far right are almost transparent, ghostlike. The left is dark and alive. The right is silence. Painterly, editorial illustration style. No text, no labels, no numbers, no chart elements anywhere in the image. Mood: quiet extinction. Color palette: deep charcoal and earth tones on the left, fading to cold white on the right.",
+  "model": "Ideogram 2",
+  "dataset_name": "WWF Living Planet Index",
+  "dataset_url": "https://www.livingplanetindex.org/data_portal",
+  "insight": "Global wildlife populations have declined by an average of 73% between 1970 and 2020, according to the WWF Living Planet Index."
+}
